@@ -10,23 +10,23 @@ namespace Orders
             double pricePerCapsule = double.Parse(Console.ReadLine());
             int daysInMonth = int.Parse(Console.ReadLine());
             int capsulesCount = int.Parse(Console.ReadLine());
-            int a = 0;
+            int b = 0;
             double momentPrice = 0;
             double totalPrice = 0;
-            while (a < n)
+            while (b < n)
             {
                 momentPrice+= ((daysInMonth * capsulesCount) * pricePerCapsule);
                 Console.WriteLine($"The price for the coffee is: ${momentPrice:F2}");
                 totalPrice += momentPrice;
                 momentPrice = 0;
-                if (a + 1 < n)
+                if (b + 1 < n)
                 {
                     pricePerCapsule = double.Parse(Console.ReadLine());
                     daysInMonth = int.Parse(Console.ReadLine());
                     capsulesCount= int.Parse(Console.ReadLine());
                 }
                 
-                a++;
+                b++;
             }
             Console.WriteLine($"Total: ${totalPrice:F2}");
 
