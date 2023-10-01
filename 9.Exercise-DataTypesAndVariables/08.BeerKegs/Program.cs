@@ -6,6 +6,7 @@ namespace _8.BeerKegs
     {
         static void Main()
         {
+            //
             int n = int.Parse(Console.ReadLine());
             double size = 0;
             string bigkeg = "";
