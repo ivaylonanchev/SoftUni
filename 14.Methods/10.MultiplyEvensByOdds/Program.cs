@@ -12,8 +12,8 @@ namespace _10.MultiplyEvensByOdds
             int[] allNumbers = new int[num.Length];
             for (int i = 0; i < num.Length; i++)
             {
-                allNumbers[i] = x % 10;
-                x /= 10;
+                string m = num[i].ToString();
+                allNumbers[i] = int.Parse(m);
             }
             int sum = SumOFOdds(num, allNumbers);
             Console.WriteLine(sum);
