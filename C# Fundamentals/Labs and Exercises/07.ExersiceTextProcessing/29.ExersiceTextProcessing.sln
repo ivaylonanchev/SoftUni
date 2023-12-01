@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ValidUsernames", "01.Val
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CharacterMultiplier", "02.CharacterMultiplier\02.CharacterMultiplier.csproj", "{4A75334D-9137-4536-8CB8-AAE7377D5B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractFile", "03.ExtractFile\03.ExtractFile.csproj", "{8E752108-A0E4-4BA8-9AF9-5E5AE6496EA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExtractFile", "03.ExtractFile\03.ExtractFile.csproj", "{8E752108-A0E4-4BA8-9AF9-5E5AE6496EA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CaeserCipher", "04.CaeserCipher\04.CaeserCipher.csproj", "{771938BA-3B07-4524-A571-C8DBD1F74C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CaeserCipher", "04.CaeserCipher\04.CaeserCipher.csproj", "{771938BA-3B07-4524-A571-C8DBD1F74C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MultiplyByNumbers", "05.MultiplyByNumbers\05.MultiplyByNumbers.csproj", "{86BDC18A-8561-4FB3-A57A-3DF2C0AFF23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReplaceRepeatingChars", "06.ReplaceRepeatingChars\06.ReplaceRepeatingChars.csproj", "{76116CF4-501B-4DF8-BB24-208F9F51585A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{771938BA-3B07-4524-A571-C8DBD1F74C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771938BA-3B07-4524-A571-C8DBD1F74C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771938BA-3B07-4524-A571-C8DBD1F74C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BDC18A-8561-4FB3-A57A-3DF2C0AFF23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BDC18A-8561-4FB3-A57A-3DF2C0AFF23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BDC18A-8561-4FB3-A57A-3DF2C0AFF23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BDC18A-8561-4FB3-A57A-3DF2C0AFF23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76116CF4-501B-4DF8-BB24-208F9F51585A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76116CF4-501B-4DF8-BB24-208F9F51585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76116CF4-501B-4DF8-BB24-208F9F51585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76116CF4-501B-4DF8-BB24-208F9F51585A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
