@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReveseAString", "01.ReveseAString\01.ReveseAString.csproj", "{DA80D6D7-A7ED-49E9-A062-72258DF063AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{166E74C1-ABFD-42B4-BE1E-45F117D2D3F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MatchingBrackets", "04.MatchingBrackets\04.MatchingBrackets.csproj", "{1BF0FF6A-34CB-40A9-A9FA-39ACF536575D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SimpleCalculator", "03.SimpleCalculator\03.SimpleCalculator.csproj", "{0EEE65FF-C305-4CA0-8E45-504112C9A344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintEvenNumbers", "05.PrintEvenNumbers\05.PrintEvenNumbers.csproj", "{45D93457-479B-4744-B247-9F9C6C8C2A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Supermarket", "06.Supermarket\06.Supermarket.csproj", "{78F8D7BA-F025-4746-BF22-97D0B8FB94DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HotPotato", "07.HotPotatoe\07.HotPotato.csproj", "{FC3A313B-0958-4735-8B77-0795B9DD5839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA80D6D7-A7ED-49E9-A062-72258DF063AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA80D6D7-A7ED-49E9-A062-72258DF063AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA80D6D7-A7ED-49E9-A062-72258DF063AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA80D6D7-A7ED-49E9-A062-72258DF063AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166E74C1-ABFD-42B4-BE1E-45F117D2D3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166E74C1-ABFD-42B4-BE1E-45F117D2D3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166E74C1-ABFD-42B4-BE1E-45F117D2D3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166E74C1-ABFD-42B4-BE1E-45F117D2D3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF0FF6A-34CB-40A9-A9FA-39ACF536575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF0FF6A-34CB-40A9-A9FA-39ACF536575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF0FF6A-34CB-40A9-A9FA-39ACF536575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF0FF6A-34CB-40A9-A9FA-39ACF536575D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEE65FF-C305-4CA0-8E45-504112C9A344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEE65FF-C305-4CA0-8E45-504112C9A344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEE65FF-C305-4CA0-8E45-504112C9A344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEE65FF-C305-4CA0-8E45-504112C9A344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D93457-479B-4744-B247-9F9C6C8C2A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D93457-479B-4744-B247-9F9C6C8C2A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D93457-479B-4744-B247-9F9C6C8C2A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D93457-479B-4744-B247-9F9C6C8C2A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F8D7BA-F025-4746-BF22-97D0B8FB94DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F8D7BA-F025-4746-BF22-97D0B8FB94DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F8D7BA-F025-4746-BF22-97D0B8FB94DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F8D7BA-F025-4746-BF22-97D0B8FB94DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3A313B-0958-4735-8B77-0795B9DD5839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3A313B-0958-4735-8B77-0795B9DD5839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3A313B-0958-4735-8B77-0795B9DD5839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3A313B-0958-4735-8B77-0795B9DD5839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C6CA3E-339B-4D53-A4D1-523776DD10CE}
+	EndGlobalSection
+EndGlobal
