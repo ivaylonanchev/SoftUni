@@ -1,0 +1,16 @@
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.exe
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.deps.json
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.runtimeconfig.json
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.runtimeconfig.dev.json
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\bin\Debug\net5.0\07. PredicateForNames.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\refint\07. PredicateForNames.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\07. PredicateForNames.genruntimeconfig.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\Labs and Exersice\05FunctionalProgramming-Exersice\07. PredicateForNames\obj\Debug\net5.0\ref\07. PredicateForNames.dll
