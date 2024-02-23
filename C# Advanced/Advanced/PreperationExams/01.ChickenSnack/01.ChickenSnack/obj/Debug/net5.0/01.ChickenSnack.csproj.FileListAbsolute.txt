@@ -1,0 +1,16 @@
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.exe
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.deps.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.runtimeconfig.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.runtimeconfig.dev.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\bin\Debug\net5.0\01.ChickenSnack.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\refint\01.ChickenSnack.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\01.ChickenSnack.genruntimeconfig.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\01.ChickenSnack\obj\Debug\net5.0\ref\01.ChickenSnack.dll

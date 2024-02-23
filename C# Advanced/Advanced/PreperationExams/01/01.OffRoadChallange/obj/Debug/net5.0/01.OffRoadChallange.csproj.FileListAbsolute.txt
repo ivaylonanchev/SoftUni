@@ -1,0 +1,16 @@
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.exe
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.deps.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.runtimeconfig.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.runtimeconfig.dev.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\bin\Debug\net5.0\01.OffRoadChallange.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\refint\01.OffRoadChallange.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\01.OffRoadChallange.genruntimeconfig.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\01.OffRoadChallange\obj\Debug\net5.0\ref\01.OffRoadChallange.dll

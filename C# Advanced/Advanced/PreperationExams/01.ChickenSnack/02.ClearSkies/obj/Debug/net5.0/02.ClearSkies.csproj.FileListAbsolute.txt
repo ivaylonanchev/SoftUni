@@ -1,0 +1,16 @@
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.exe
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.deps.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.runtimeconfig.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.runtimeconfig.dev.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\bin\Debug\net5.0\02.ClearSkies.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\refint\02.ClearSkies.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\02.ClearSkies.genruntimeconfig.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01.ChickenSnack\02.ClearSkies\obj\Debug\net5.0\ref\02.ClearSkies.dll

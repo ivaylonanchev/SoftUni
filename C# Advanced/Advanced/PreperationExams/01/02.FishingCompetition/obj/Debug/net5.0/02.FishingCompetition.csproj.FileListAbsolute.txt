@@ -1,0 +1,16 @@
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.exe
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.deps.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.runtimeconfig.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.runtimeconfig.dev.json
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\bin\Debug\net5.0\02.FishingCompetition.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\refint\02.FishingCompetition.dll
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.pdb
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\02.FishingCompetition.genruntimeconfig.cache
+D:\ivo\GitHub\SoftUni\C# Advanced\PreperationExams\01\02.FishingCompetition\obj\Debug\net5.0\ref\02.FishingCompetition.dll
