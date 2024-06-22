@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
+﻿
 namespace SoftUni_Database.Models
 {
     public partial class Town

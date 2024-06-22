@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUni-Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b36cb7ab2b2e2a4af775103f5126c2bdddf32f47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb825d1a228e6f262a9e88b7b0212022128ee872")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUni-Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUni-Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
