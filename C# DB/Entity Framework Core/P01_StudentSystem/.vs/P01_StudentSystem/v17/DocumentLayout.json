@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\P01_StudentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB031F1F-5B89-4FEA-B8FF-43FE1AA5B83A}|P01_StudentSystem\\P01_StudentSystem.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\p01_studentsystem\\p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB031F1F-5B89-4FEA-B8FF-43FE1AA5B83A}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD52E4C-B408-491A-A7F4-7A5F74734136}|P02_FootballBetting\\P02_FootballBetting.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\p01_studentsystem\\p02_footballbetting\\p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD52E4C-B408-491A-A7F4-7A5F74734136}|P02_FootballBetting\\P02_FootballBetting.csproj|solutionrelative:p02_footballbetting\\p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentSystemContext.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\P01_StudentSystem\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\P01_StudentSystem\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\P01_StudentSystem\\P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeToolTip": "P02_FootballBetting\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA0wCUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:17:35.271Z",
+              "WhenOpened": "2024-07-05T14:24:41.806Z",
               "EditorCaption": ""
             }
           ]

@@ -52,7 +52,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasKey("CourseId");
 
-                    b.ToTable("Courses", (string)null);
+                    b.ToTable("Courses");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Homework", b =>
@@ -85,7 +85,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasIndex("StudentId");
 
-                    b.ToTable("Homeworks", (string)null);
+                    b.ToTable("Homeworks");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Resource", b =>
@@ -116,7 +116,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasIndex("CourseId");
 
-                    b.ToTable("Resources", (string)null);
+                    b.ToTable("Resources");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Student", b =>
@@ -146,7 +146,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasKey("StudentId");
 
-                    b.ToTable("Students", (string)null);
+                    b.ToTable("Students");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourse", b =>
@@ -161,7 +161,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.HasIndex("CourseId");
 
-                    b.ToTable("StudentsCourses", (string)null);
+                    b.ToTable("StudentsCourses");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Homework", b =>

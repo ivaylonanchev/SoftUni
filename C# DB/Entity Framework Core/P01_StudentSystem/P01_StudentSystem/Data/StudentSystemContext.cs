@@ -14,11 +14,11 @@ namespace P01_StudentSystem.Data
 
         private const string connectionString =
             "Server=DESKTOP-FE75MLC\\SQLEXPRESS;Database=StudentSystem;Integrated Security=True;";
-        public StudentSystemContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
+        public StudentSystemContext() : base()
         {
             
         }
-        public StudentSystemContext()
+        public StudentSystemContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
         {
             
         }
@@ -39,13 +39,13 @@ namespace P01_StudentSystem.Data
                     .Property(s => s.PhoneNumber)
                     .IsUnicode(false);
         }
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    if (!optionsBuilder.IsConfigured)
-        //    {
-        //        optionsBuilder.UseSqlServer(connectionString);
-        //    }
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(connectionString);
+            }
+        }
 
     }
 }

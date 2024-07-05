@@ -1,0 +1,6 @@
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.csproj.AssemblyReference.cache
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.AssemblyInfoInputs.cache
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.AssemblyInfo.cs
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.csproj.CoreCompileInputs.cache
+D:\ivo\GitHub\SoftUni\C# DB\Entity Framework Core\P01_StudentSystem\P02_FootballBetting\obj\Debug\net6.0\P02_FootballBetting.sourcelink.json
