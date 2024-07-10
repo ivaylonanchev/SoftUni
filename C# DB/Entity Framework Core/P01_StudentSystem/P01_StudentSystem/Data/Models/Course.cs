@@ -13,7 +13,7 @@ namespace P01_StudentSystem.Data.Models
         [Key]
         public int CourseId { get; set; }
 
-        [Unicode]
+        [Required]
         [MaxLength(100)]
         public string Name { get; set; }
 
@@ -25,8 +25,8 @@ namespace P01_StudentSystem.Data.Models
         public DateTime EndDate { get; set; }
 
         public int Price { get; set; }
-        public ICollection<StudentCourse> StudentsCourses { get; set; }
-        public ICollection<Resource> Resources { get; set; }
-        public ICollection<Homework> Homeworks { get; set; }
+        public virtual ICollection<StudentCourse> StudentsCourses { get; set; }
+        public virtual ICollection<Resource> Resources { get; set; }
+        public virtual ICollection<Homework> Homeworks { get; set; }
     }
 }

@@ -18,8 +18,8 @@ namespace P02_FootballBetting.Data
         {
 
         }
-        public FootballBettingContext(DbContextOptions dbContextOptions) 
-            : base(dbContextOptions)
+        public FootballBettingContext(DbContextOptions options) 
+            : base(options)
         {
 
         }
@@ -35,9 +35,9 @@ namespace P02_FootballBetting.Data
         public DbSet<Town> Towns { get; set; }
         public DbSet<User> Users { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            modelBuilder.Entity<PlayerStatistic>()
+            builder.Entity<PlayerStatistic>()
                 .HasKey(ps => new { ps.PlayerId, ps.GameId });
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

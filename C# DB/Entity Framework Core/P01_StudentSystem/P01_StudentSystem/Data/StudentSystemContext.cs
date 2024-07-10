@@ -18,7 +18,7 @@ namespace P01_StudentSystem.Data
         {
             
         }
-        public StudentSystemContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
+        public StudentSystemContext(DbContextOptions options) : base(options)
         {
             
         }
@@ -30,12 +30,12 @@ namespace P01_StudentSystem.Data
         public DbSet<Resource> Resources { get; set; }
 
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            modelBuilder.Entity<StudentCourse>()
+            builder.Entity<StudentCourse>()
                 .HasKey(e => new { e.StudentId, e.CourseId });
 
-            modelBuilder.Entity<Student>()
+            builder.Entity<Student>()
                     .Property(s => s.PhoneNumber)
                     .IsUnicode(false);
         }
