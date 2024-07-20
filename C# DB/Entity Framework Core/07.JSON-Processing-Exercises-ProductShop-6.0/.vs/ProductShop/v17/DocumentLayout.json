@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\07.json-processing-exercises-productshop-6.0\\productshop\\migrations\\20240720100802_firt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\migrations\\20240720100802_firt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\07.json-processing-exercises-productshop-6.0\\productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\07.json-processing-exercises-productshop-6.0\\productshop\\productshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\productshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\07.json-processing-exercises-productshop-6.0\\productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5D7D8E-FC89-4D18-BDD1-F241486B4465}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\07.json-processing-exercises-productshop-6.0\\productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,32 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240720100802_firt.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\Migrations\\20240720100802_firt.cs",
-              "RelativeDocumentMoniker": "ProductShop\\Migrations\\20240720100802_firt.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\Migrations\\20240720100802_firt.cs",
-              "RelativeToolTip": "ProductShop\\Migrations\\20240720100802_firt.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDoAAAAlAAAA",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Models\\Product.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\Models\\Product.cs",
+              "RelativeToolTip": "ProductShop\\Models\\Product.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T10:08:02.493Z",
+              "WhenOpened": "2024-07-20T10:36:18.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductShop",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj",
-              "RelativeDocumentMoniker": "ProductShop\\ProductShop.csproj",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj",
-              "RelativeToolTip": "ProductShop\\ProductShop.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-20T10:05:56.575Z",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\StartUp.cs",
+              "RelativeToolTip": "ProductShop\\StartUp.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:12:34.587Z",
               "EditorCaption": ""
             },
             {
@@ -60,12 +64,7 @@
               "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T09:54:12.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2024-07-20T09:54:12.821Z"
             }
           ]
         }
