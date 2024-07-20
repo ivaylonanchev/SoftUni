@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
               "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\05.Advanced-Querying-Exercises-BookShop-6.0\\BookShop\\StartUp.cs",
               "RelativeToolTip": "BookShop\\StartUp.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAkwOcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T16:15:54.213Z",
               "EditorCaption": ""
