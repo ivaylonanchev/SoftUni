@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj": {}
+    "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07. Json\\ProductShop\\ProductShop\\ProductShop.csproj": {}
   },
   "projects": {
-    "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj": {
+    "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07. Json\\ProductShop\\ProductShop\\ProductShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj",
+        "projectUniqueName": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07. Json\\ProductShop\\ProductShop\\ProductShop.csproj",
         "projectName": "ProductShop",
-        "projectPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj",
+        "projectPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07. Json\\ProductShop\\ProductShop\\ProductShop.csproj",
         "packagesPath": "C:\\Users\\tolki\\.nuget\\packages\\",
-        "outputPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\obj\\",
+        "outputPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07. Json\\ProductShop\\ProductShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\software\\VS2022\\Shared\\NuGetPackages"
