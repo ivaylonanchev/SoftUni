@@ -3,6 +3,7 @@ using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 using ProductShop.Data;
 using ProductShop.Models;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProductShop
 {
@@ -12,15 +13,15 @@ namespace ProductShop
         {
             ProductShopContext context = new ProductShopContext();
 
-            string textUsers = File.ReadAllText("../../../Datasets/products.json");
-            string textProducts = File.ReadAllText("../../../Datasets/products.json");
-            string textCategoryProducts = File.ReadAllText("../../../Datasets/products.json");
-            string textCategories = File.ReadAllText("../../../Datasets/products.json");
+            //string textUsers = File.ReadAllText("../../../Datasets/products.json");
+            //string textProducts = File.ReadAllText("../../../Datasets/products.json");
+            //string textCategoryProducts = File.ReadAllText("../../../Datasets/products.json");
+            //string textCategories = File.ReadAllText("../../../Datasets/products.json");
 
-            Console.WriteLine(ImportUsers(context, textUsers));
-            Console.WriteLine(ImportProducts(context, textProducts));
-            Console.WriteLine(ImportCategories(context, textCategories));
-            Console.WriteLine(ImportCategoryProducts(context, textCategoryProducts));
+            //Console.WriteLine(ImportUsers(context, textUsers));
+            //Console.WriteLine(ImportProducts(context, textProducts));
+            //Console.WriteLine(ImportCategories(context, textCategories));
+            //Console.WriteLine(ImportCategoryProducts(context, textCategoryProducts));
 
             Console.WriteLine(GetProductsInRange(context));
         }
@@ -74,10 +75,40 @@ namespace ProductShop
                 .OrderBy(p => p.price)
                 .ToList();
 
-            var jsonText = JsonConvert.SerializeObject(products);
+            var jsonText = JsonConvert.SerializeObject(products, Formatting.Indented);
+
+            return jsonText;
+        }
+        public static string GetSoldProducts(ProductShopContext context)
+        {
+            var users = context.Users
+                .Where(u => u.ProductsSold.Any(p => p.BuyerId != null))
+                .Select(u => new
+                {
+                    firstName = u.FirstName,
+                    lastName = u.LastName,
+                    soldProducts = u.ProductsSold.Select(p => new
+                    {
+                        name = p.Name,
+                        price = p.Price,
+                        buyerFirstName = p.Buyer.FirstName,
+                        buyerLastName = p.Buyer.LastName
+
+                    })
+                })
+                .OrderBy(u => u.lastName)
+                .ThenBy(u => u.firstName)
+                .ToList();
+
+            var jsonText = JsonConvert.SerializeObject(users, Formatting.Indented);
+            return jsonText;
+        }
+        public static string GetCategoriesByProductsCount(ProductShopContext context)
+        {
+
 
             return null;
         }
-        public static string GetProductsInRange(ProductShopContext context)
+
     }
 }
