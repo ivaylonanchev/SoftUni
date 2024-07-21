@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pvKJpnnuXuUWA60AAvDmBZhEmWPlGOGiAoNnpwcHVOHchrgfYrzN5sObgnh4USrIEu3NcvYXQPzzCtnpUgMf9Q==",
+  "dgSpecHash": "iUHPer54ytXNC/tlqjeTmFOZUuG5928Y/ZPcTOdHC0LTq2trISWnCuol0zUA7MO8JEBrvC/u+9JqxLwPL2KnXA==",
   "success": true,
   "projectFilePath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\07.JSON-Processing-Exercises-ProductShop-6.0\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\6.0.1\\microsoft.entityframeworkcore.proxies.6.0.1.nupkg.sha512",
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.1\\microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512",
+    "C:\\Users\\tolki\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.1\\microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\tolki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
