@@ -5,6 +5,9 @@ html{
 
     font: 16px/1.5 Arial, Helvetica, sans-serif
 }
-boyd{
-    background-color: #fff;
+body, table, input{
+    font: inherit;
+}
+body{
+    background-color:blue;
 }

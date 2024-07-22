@@ -34,16 +34,16 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\CarDealer\\CarDealer\\Models\\Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\Migrations\\20240721174714_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductShop\\Migrations\\20240721174714_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\Migrations\\20240721173545_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductShop\\Migrations\\20240721173545_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\08. xml\\productshop\\productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\08. xml\\productshop\\productshop\\migrations\\20240721174714_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18488EE8-C545-489E-A587-DD442B107B10}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\migrations\\20240721174714_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,8 +69,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\CategoryProductImportDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T18:41:01.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T18:41:01.348Z"
             },
             {
               "$type": "Document",
@@ -82,8 +81,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\CategoryImportDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T18:31:42.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T18:31:42.567Z"
             },
             {
               "$type": "Document",
@@ -91,9 +89,9 @@
               "Title": "StartUp.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\StartUp.cs",
               "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\StartUp.cs",
-              "RelativeToolTip": "ProductShop\\StartUp.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAgwJYAAAAAAAAA",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\StartUp.cs*",
+              "RelativeToolTip": "ProductShop\\StartUp.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T17:47:30.683Z",
               "EditorCaption": ""
@@ -108,8 +106,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\ProductImportDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T18:08:15.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T18:08:15.498Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "..\\CarDealer\\CarDealer\\Models\\Supplier.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T18:04:49.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T18:04:49.9Z"
             },
             {
               "$type": "Document",
@@ -134,12 +130,11 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\UserImportDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:58:29.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:58:29.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20240721174714_first.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\Migrations\\20240721174714_first.cs",
               "RelativeDocumentMoniker": "ProductShop\\Migrations\\20240721174714_first.cs",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "ProductShop\\Migrations\\20240721174714_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:47:14.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:47:14.336Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "ProductShop\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:36:13.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:36:13.733Z"
             },
             {
               "$type": "Document",
@@ -173,12 +166,11 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Export\\ProductInRangeDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T19:16:28.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T19:16:28.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "20240721173545_first.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\Migrations\\20240721173545_first.cs",
               "RelativeDocumentMoniker": "ProductShop\\Migrations\\20240721173545_first.cs",
@@ -186,12 +178,11 @@
               "RelativeToolTip": "ProductShop\\Migrations\\20240721173545_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:35:45.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:35:45.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Configuration.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\08. XML\\ProductShop\\ProductShop\\Data\\Configuration.cs",
               "RelativeDocumentMoniker": "ProductShop\\Data\\Configuration.cs",
@@ -199,8 +190,7 @@
               "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:35:02.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:35:02.97Z"
             }
           ]
         }
