@@ -45,6 +45,7 @@ namespace ProductShop
             {
                 import = (UserImportDTO[])xmlSerializer.Deserialize(reader);
             }
+            //reader
 
             User[] users = import
                 .Select(u => new User
