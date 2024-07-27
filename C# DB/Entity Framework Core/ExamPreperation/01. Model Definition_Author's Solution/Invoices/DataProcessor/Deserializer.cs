@@ -155,7 +155,7 @@
                         continue;
                     }
 
-                   p.ProductsClients.Add(new ProductClient()
+                    p.ProductsClients.Add(new ProductClient()
                     {
                         Client = c
                     });
@@ -177,5 +177,5 @@
 
             return Validator.TryValidateObject(dto, validationContext, validationResult, true);
         }
-    } 
+    }
 }

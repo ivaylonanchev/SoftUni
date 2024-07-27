@@ -14,9 +14,9 @@ public class ImportAddressDto
     [XmlElement("StreetNumber")]
     public int StreetNumber { get; set; }
 
-    [XmlElement("PostCore")]
+    [XmlElement("PostCode")]
     [Required]
-    public string PostCore { get; set; } = null!;
+    public string PostCode { get; set; } = null!;
 
     [XmlElement("City")]
     [Required]

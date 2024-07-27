@@ -25,7 +25,7 @@ namespace Invoices.DataProcessor
 
         public static string ImportClients(InvoicesContext context, string xmlString)
         {
-            XmlSerializer xmlSerializer = 
+            XmlSerializer xmlSerializer =
                 new XmlSerializer(typeof(ImportClientDto[]), new XmlRootAttribute("Clients"));
 
             ImportClientDto[] import;
@@ -34,32 +34,58 @@ namespace Invoices.DataProcessor
 
             var sb = new StringBuilder();
 
-            try
+            List<Client> clients = new List<Client>();
+
+            foreach (var client in import)
             {
-                Client[] clients = import
-                    .Select(i => new Client
-                    {
-                        Name = i.Name,
-                        NumberVat = i.NumberVat,
-                        Addresses = i.Addresses.Select(a => new Address
+                try
+                {
+                    clients = clients
+                        .Select(i => new Client
+                        {
+                            Name = i.Name,
+                            NumberVat = i.NumberVat,
+                            Addresses = i.Addresses.Select(a => new Address
                             {
                                 StreetName = a.StreetName,
                                 StreetNumber = a.StreetNumber,
-                                PostCode = a.PostCore,
+                                PostCode = a.PostCode,
                                 City = a.City,
                                 Country = a.Country
                             })
-                            .ToArray()
-                    })
-                    .ToArray();
+                                .ToList()
+                        })
+                        .ToList();
+                    sb.AppendLine($"Successfully imported client {client.Name}");
+                }
+                catch (Exception e)
+                {
 
-                context.Clients.AddRange(clients);
-                context.SaveChanges();
+                    sb.AppendLine("Invalid data!");
+                }
+
             }
-            catch (Exception e)
-            {
-                Console.WriteLine("Invalid data!");
-            }
+            //Client[] clients = import
+            //    .Select(i => new Client
+            //    {
+            //        Name = i.Name,
+            //        NumberVat = i.NumberVat,
+            //        Addresses = i.Addresses.Select(a => new Address
+            //        {
+            //            StreetName = a.StreetName,
+            //            StreetNumber = a.StreetNumber,
+            //            PostCode = a.PostCode,
+            //            City = a.City,
+            //            Country = a.Country
+            //        })
+            //            .ToArray()
+            //    })
+            //    .ToArray();
+
+            context.Clients.AddRange(clients);
+            context.SaveChanges();
+
+
 
             return null;
         }
@@ -84,5 +110,5 @@ namespace Invoices.DataProcessor
 
             return Validator.TryValidateObject(dto, validationContext, validationResult, true);
         }
-    } 
+    }
 }

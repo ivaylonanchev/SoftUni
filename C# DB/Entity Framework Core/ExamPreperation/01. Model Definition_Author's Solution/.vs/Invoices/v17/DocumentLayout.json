@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01. model definition_author\u0027s solution\\invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01. model definition_author\u0027s solution\\invoices\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01. model definition_author\u0027s solution\\invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\data\\models\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\Invoices\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAgwK4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:53:26.19Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -26,7 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\Invoices\\StartUp.cs",
+              "RelativeDocumentMoniker": "Invoices\\StartUp.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\Invoices\\StartUp.cs",
+              "RelativeToolTip": "Invoices\\StartUp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:49:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductClient.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01. Model Definition_Author\u0027s Solution\\Invoices\\Data\\Models\\ProductClient.cs",
               "RelativeDocumentMoniker": "Invoices\\Data\\Models\\ProductClient.cs",
