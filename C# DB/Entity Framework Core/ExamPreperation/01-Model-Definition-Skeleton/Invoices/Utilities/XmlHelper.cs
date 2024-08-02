@@ -32,7 +32,7 @@ public class XmlHelper
         xmlNamespaces.Add(string.Empty, string.Empty);
 
         using StringWriter writer = new StringWriter();
-        xmlSerializer.Serialize(writer, obj);
+        xmlSerializer.Serialize(writer, obj, xmlNamespaces);
 
         return sb.ToString().Trim();
     }

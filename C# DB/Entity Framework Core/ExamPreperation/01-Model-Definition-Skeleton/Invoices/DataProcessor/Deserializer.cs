@@ -76,6 +76,7 @@ namespace Invoices.DataProcessor
 
                 clientsToImport.Add(client);
                 sb.AppendLine(string.Format(SuccessfullyImportedClients, clientDto.Name));
+                context.Addresses.AddRange(addressesToImport);
             }
 
             context.Clients.AddRange(clientsToImport);
@@ -143,9 +144,53 @@ namespace Invoices.DataProcessor
 
         public static string ImportProducts(InvoicesContext context, string jsonString)
         {
+            var sb = new StringBuilder();
+            ImportProductDto[] deseriallizedProducts =
+                JsonConvert.DeserializeObject<ImportProductDto[]>(jsonString);
 
+            ICollection<Product> products = new List<Product>();
 
-            throw new NotImplementedException();
+            foreach (ImportProductDto productDto in deseriallizedProducts)
+            {
+                if (!IsValid(productDto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+                 
+                ICollection<ProductClient> productClientsToImport = new List<ProductClient>();
+
+                Product product = new Product()
+                {
+                    Name = productDto.Name,
+                    Price = productDto.Price,
+                    CategoryType = (CategoryType)productDto.CategoryType,
+                };
+                foreach (int clientId in productDto.Clients.Distinct())
+                {
+                    if (!context.Clients.Any(c => c.Id == clientId))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
+                    ProductClient productClient = new ProductClient()
+                    {
+                        ClientId = clientId,
+                        ProductId = product.Id
+                    };
+
+                    productClientsToImport.Add(productClient);
+                }
+
+                product.ProductsClients = productClientsToImport;
+                products.Add(product);
+                sb.AppendLine(string.Format(SuccessfullyImportedProducts, product.Name, product.ProductsClients.Count));
+            }
+
+            context.Products.AddRange(products);
+            context.SaveChanges();
+            return sb.ToString().Trim();
         }
 
         public static bool IsValid(object dto)
