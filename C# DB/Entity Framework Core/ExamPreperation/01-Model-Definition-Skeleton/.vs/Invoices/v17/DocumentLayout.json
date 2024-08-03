@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01-model-definition-skeleton\\invoices\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01-model-definition-skeleton\\invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01-model-definition-skeleton\\invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\dataprocessor\\importdto\\importclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01-model-definition-skeleton\\invoices\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|solutionrelative:invoices\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{010E3105-B89D-4AD8-A1E0-4548539C3DC2}|Invoices\\Invoices.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\01-model-definition-skeleton\\invoices\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,46 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImportProductDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
-              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
-              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:56:10.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImportAddressDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
-              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
-              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T07:02:34.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "XmlHelper.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
               "RelativeDocumentMoniker": "Invoices\\Utilities\\XmlHelper.cs",
               "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
               "RelativeToolTip": "Invoices\\Utilities\\XmlHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:32:57.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ImportClientDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
@@ -169,12 +143,11 @@
               "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportClientDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:57:47.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:57:47.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Deserializer.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Deserializer.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Deserializer.cs",
@@ -182,12 +155,11 @@
               "RelativeToolTip": "Invoices\\DataProcessor\\Deserializer.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T09:25:01.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T09:25:01.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ImportInvoiceDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
@@ -195,12 +167,11 @@
               "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportInvoiceDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T10:37:31.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T10:37:31.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExportClientDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
@@ -208,12 +179,11 @@
               "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportClientDto.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:43:04.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T18:43:04.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ExportInvoiceDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
@@ -221,21 +191,44 @@
               "RelativeToolTip": "Invoices\\DataProcessor\\ExportDto\\ExportInvoiceDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:47:22.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T18:47:22.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Serializer.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
               "RelativeDocumentMoniker": "Invoices\\DataProcessor\\Serializer.cs",
               "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
               "RelativeToolTip": "Invoices\\DataProcessor\\Serializer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAABjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T18:24:54.315Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportAddressDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportAddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:02:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportProductDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeDocumentMoniker": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "RelativeToolTip": "Invoices\\DataProcessor\\ImportDto\\ImportProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:56:10.037Z"
             },
             {
               "$type": "Document",
@@ -247,12 +240,11 @@
               "RelativeToolTip": "Invoices\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:39:01.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T09:39:01.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Invoice.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Data\\Models\\Invoice.cs",
               "RelativeDocumentMoniker": "Invoices\\Data\\Models\\Invoice.cs",
@@ -260,8 +252,7 @@
               "RelativeToolTip": "Invoices\\Data\\Models\\Invoice.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:30:19.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T14:30:19.701Z"
             },
             {
               "$type": "Document",
@@ -273,8 +264,7 @@
               "RelativeToolTip": "Invoices\\Data\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:43:21.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T14:43:21.985Z"
             },
             {
               "$type": "Document",
@@ -286,8 +276,7 @@
               "RelativeToolTip": "Invoices\\Data\\InvoicesContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:57:51.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T09:57:51.628Z"
             },
             {
               "$type": "Document",
@@ -299,8 +288,7 @@
               "RelativeToolTip": "Invoices\\Data\\Models\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T14:36:40.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T14:36:40.498Z"
             },
             {
               "$type": "Document",
@@ -312,8 +300,7 @@
               "RelativeToolTip": "Invoices\\Data\\Models\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T10:00:07.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T10:00:07.504Z"
             },
             {
               "$type": "Document",
@@ -325,8 +312,7 @@
               "RelativeToolTip": "Invoices\\Data\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T09:58:53.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T09:58:53.397Z"
             },
             {
               "$type": "Document",

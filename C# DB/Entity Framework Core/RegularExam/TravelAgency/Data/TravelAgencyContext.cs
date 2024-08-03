@@ -49,7 +49,6 @@ namespace TravelAgency.Data
                 new Guide { Id = 9, FullName = "Chris Martin", Language = Language.Spanish },
                 new Guide { Id = 10, FullName = "Anna Thompson", Language = Language.French }
                 );
-            DeleteBehavior.casc
             modelBuilder.Entity<TourPackage>().HasData(
                 new TourPackage
                 {

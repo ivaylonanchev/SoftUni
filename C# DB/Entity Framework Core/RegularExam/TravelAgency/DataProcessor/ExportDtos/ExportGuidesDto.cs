@@ -8,6 +8,7 @@ public class ExportGuidesDto
 {
     [XmlElement(nameof(FullName))]
     public string FullName { get; set; }
-    [XmlElement(nameof(TourPackages))]
-    public ICollection<ExportTPGuideDto> TourPackages { get; set; }
+
+    [XmlArray(nameof(TourPackages))]
+    public ExportTPGuideDto[] TourPackages { get; set; }
 }
