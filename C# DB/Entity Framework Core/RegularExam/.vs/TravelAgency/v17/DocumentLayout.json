@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\regularexam\\travelagency\\dataprocessor\\exportdtos\\exporttpguidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\exporttpguidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\regularexam\\travelagency\\dataprocessor\\exportdtos\\exportguidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\dataprocessor\\exportdtos\\exportguidesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\regularexam\\travelagency\\exportresults\\actual result - export customers with their bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6B51875C-9FFB-4045-9550-83CB9149833A}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\exportresults\\actual result - export customers with their bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +58,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportGuidesDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\ExportGuidesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:13:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportTPGuideDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\ExportDtos\\ExportTPGuideDto.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\ExportDtos\\ExportTPGuideDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\ExportDtos\\ExportTPGuideDto.cs",
+              "RelativeToolTip": "TravelAgency\\DataProcessor\\ExportDtos\\ExportTPGuideDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:13:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Deserializer.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
               "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Deserializer.cs",
               "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
               "RelativeToolTip": "TravelAgency\\DataProcessor\\Deserializer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T17:15:31.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Expected Result - Export Customers With Their Bookings.json",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\ExportResults\\Expected Result - Export Customers With Their Bookings.json",
               "RelativeDocumentMoniker": "TravelAgency\\ExportResults\\Expected Result - Export Customers With Their Bookings.json",
@@ -71,12 +105,11 @@
               "RelativeToolTip": "TravelAgency\\ExportResults\\Expected Result - Export Customers With Their Bookings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T17:13:14.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:13:14.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Actual Result - Export Guides With Spanish Language With All Their Tour Packages.xml",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\ExportResults\\Actual Result - Export Guides With Spanish Language With All Their Tour Packages.xml",
               "RelativeDocumentMoniker": "TravelAgency\\ExportResults\\Actual Result - Export Guides With Spanish Language With All Their Tour Packages.xml",
@@ -84,12 +117,11 @@
               "RelativeToolTip": "TravelAgency\\ExportResults\\Actual Result - Export Guides With Spanish Language With All Their Tour Packages.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-03T17:10:46.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:10:46.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Actual Result - Export Customers With Their Bookings.json",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\ExportResults\\Actual Result - Export Customers With Their Bookings.json",
               "RelativeDocumentMoniker": "TravelAgency\\ExportResults\\Actual Result - Export Customers With Their Bookings.json",
@@ -97,8 +129,7 @@
               "RelativeToolTip": "TravelAgency\\ExportResults\\Actual Result - Export Customers With Their Bookings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T17:10:42.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:10:42.598Z"
             },
             {
               "$type": "Document",
@@ -108,14 +139,14 @@
               "RelativeDocumentMoniker": "TravelAgency\\DataProcessor\\Serializer.cs",
               "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Serializer.cs",
               "RelativeToolTip": "TravelAgency\\DataProcessor\\Serializer.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwFUAAABNAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T06:58:36.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Expected Result -  Export Guides With Spanish Language With All Their Tour Packages.xml",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\ExportResults\\Expected Result -  Export Guides With Spanish Language With All Their Tour Packages.xml",
               "RelativeDocumentMoniker": "TravelAgency\\ExportResults\\Expected Result -  Export Guides With Spanish Language With All Their Tour Packages.xml",
@@ -123,12 +154,11 @@
               "RelativeToolTip": "TravelAgency\\ExportResults\\Expected Result -  Export Guides With Spanish Language With All Their Tour Packages.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-03T17:10:44.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:10:44.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StartUp.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\StartUp.cs",
               "RelativeDocumentMoniker": "TravelAgency\\StartUp.cs",
@@ -136,8 +166,7 @@
               "RelativeToolTip": "TravelAgency\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:12:02.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T17:12:02.59Z"
             }
           ]
         }

@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\exportresults\\expected result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\expected result - exportcreatorswiththeirboardgames.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\exportresults\\expected result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\expected result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\exportresults\\actual result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\actual result - exportsellerswithmostboardgames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\exportdto\\exportcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\exportcreatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\exportdto\\exportboardgamesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\exportboardgamesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\exportresults\\actual result - exportcreatorswiththeirboardgames.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\importresults\\expected result - importsellers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\expected result - importsellers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\importresults\\actual result - importsellers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\actual result - importsellers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\importresults\\actual result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\actual result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\importdto\\importsellersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importsellersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\importdto\\importcreatorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importcreatorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\importresults\\expected result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\importresults\\expected result - importcreators.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\dataprocessor\\importdto\\importboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\importdto\\importboardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\datasets\\creators.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\datasets\\creators.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804090203_sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Boardgames\\Migrations\\20240804090203_sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\02. model definition_author\u0027s solution\\boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804084943_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Boardgames\\Migrations\\20240804084943_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expected Result - ExportSellersWithMostBoardgames.json",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Expected Result - ExportSellersWithMostBoardgames.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T11:21:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actual Result - ExportSellersWithMostBoardgames.json",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Actual Result - ExportSellersWithMostBoardgames.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T10:53:01.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:37:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Expected Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-04T10:53:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportCreatorDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\ExportCreatorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:07:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportBoardgamesDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardgamesDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardgamesDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ExportDto\\ExportBoardgamesDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\ExportBoardgamesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:08:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-04T11:17:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeDocumentMoniker": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "RelativeToolTip": "Boardgames\\ExportResults\\Actual Result - ExportCreatorsWithTheirBoardgames.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-04T11:17:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwHYAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:17:54.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Expected Result - ImportSellers.txt",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Expected Result - ImportSellers.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Expected Result - ImportSellers.txt",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Expected Result - ImportSellers.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Expected Result - ImportSellers.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-04T10:38:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Actual Result - ImportSellers.txt",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Actual Result - ImportSellers.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Actual Result - ImportSellers.txt",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Actual Result - ImportSellers.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Actual Result - ImportSellers.txt",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-04T10:37:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\StartUp.cs",
+              "RelativeDocumentMoniker": "Boardgames\\StartUp.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\StartUp.cs",
+              "RelativeToolTip": "Boardgames\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:01:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actual Result - ImportCreators.txt",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Actual Result - ImportCreators.txt",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwLUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-04T10:20:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Expected Result - ImportCreators.txt",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "RelativeDocumentMoniker": "Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "RelativeToolTip": "Boardgames\\ImportResults\\Expected Result - ImportCreators.txt",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwLUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-04T10:20:40.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:18:55.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "..\\..\\RegularExam\\TravelAgency\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:50:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Seller.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Seller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:30:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportSellersDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportSellersDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportSellersDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportSellersDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportSellersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:22:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportCreatorsDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportCreatorsDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportCreatorsDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportCreatorsDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportCreatorsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:42:14.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:40:23.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Configuration.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Configuration.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:46:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImportBoardgameDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ImportDto\\ImportBoardgameDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA2wBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:45:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Boardgame.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:39:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoardgamesContext.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeToolTip": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:46:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "..\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "..\\01-Model-Definition-Skeleton\\Invoices\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:18:26.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "..\\01-Model-Definition-Skeleton\\Invoices\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:19:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "creators.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Datasets\\creators.xml",
+              "RelativeDocumentMoniker": "Boardgames\\Datasets\\creators.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Datasets\\creators.xml",
+              "RelativeToolTip": "Boardgames\\Datasets\\creators.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-04T10:15:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240804090203_sec.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804090203_sec.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Migrations\\20240804090203_sec.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804090203_sec.cs",
+              "RelativeToolTip": "Boardgames\\Migrations\\20240804090203_sec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:02:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Creator.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:27:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240804084943_first.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804084943_first.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Migrations\\20240804084943_first.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Migrations\\20240804084943_first.cs",
+              "RelativeToolTip": "Boardgames\\Migrations\\20240804084943_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:49:43.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoardgameSeller.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\02. Model Definition_Author\u0027s Solution\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:44:36.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
