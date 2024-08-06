@@ -82,7 +82,6 @@ namespace Medicines.DataProcessor
                     sb.AppendLine(ErrorMessage);
                     continue;
                 }
-
                 Pharmacy pharmacy = new Pharmacy()
                 {
                     Name = pharmacyDto.Name,
@@ -97,6 +96,13 @@ namespace Medicines.DataProcessor
                         sb.AppendLine(ErrorMessage);
                         continue;
                     }
+
+                    if (string.IsNullOrEmpty(m.Producer) || string.IsNullOrEmpty(m.Producer))
+                    {
+                        sb.AppendLine(ErrorMessage);
+                        continue;
+                    }
+
 
                     DateTime medicineProductionDate;
                     bool isProductionDateValid = DateTime
@@ -120,11 +126,7 @@ namespace Medicines.DataProcessor
                         continue;
                     }
 
-                    //if (medicineProductionDate == null || medicineExpityDate == null)
-                    //{
-                    //    sb.AppendLine(ErrorMessage);
-                    //    continue;
-                    //}
+
 
                     if (pharmacy.Medicines.Any(x => x.Name == m.Name)
                         && pharmacy.Medicines.Any(x=>x.Producer == m.Producer))
