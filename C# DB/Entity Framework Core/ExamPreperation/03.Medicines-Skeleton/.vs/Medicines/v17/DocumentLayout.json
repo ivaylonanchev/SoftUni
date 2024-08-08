@@ -166,8 +166,7 @@
               "RelativeToolTip": "Medicines\\Data\\Models\\Patient.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:00:59.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:00:59.959Z"
             },
             {
               "$type": "Document",
@@ -179,8 +178,7 @@
               "RelativeToolTip": "Medicines\\Data\\Models\\Medicine.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAxwBQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:57:31.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T09:57:31.42Z"
             },
             {
               "$type": "Document",
@@ -192,8 +190,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA6wEAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:17:04.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:17:04.343Z"
             },
             {
               "$type": "Document",
@@ -205,8 +202,7 @@
               "RelativeToolTip": "Medicines\\ImportResults\\Actual Result - ImportPatients.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-06T12:00:08.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T12:00:08.39Z"
             },
             {
               "$type": "Document",
@@ -218,8 +214,7 @@
               "RelativeToolTip": "Medicines\\ImportResults\\Expected Result - ImportPatients.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-06T12:00:09.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T12:00:09.514Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "RelativeToolTip": "Medicines\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAvwCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:53:42.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T09:53:42.205Z"
             },
             {
               "$type": "Document",
@@ -257,8 +251,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\ImportPharmaciesDto.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwBUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:19:35.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:19:35.949Z"
             },
             {
               "$type": "Document",
@@ -270,8 +263,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\ImportMedicineDto.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAADwvyAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:23:00.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:23:00.716Z"
             },
             {
               "$type": "Document",
@@ -283,8 +275,7 @@
               "RelativeToolTip": "Medicines\\Data\\Models\\Pharmacy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:56:31.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T09:56:31.848Z"
             },
             {
               "$type": "Document",
@@ -296,8 +287,7 @@
               "RelativeToolTip": "Medicines\\Datasets\\pharmacies.xml",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAK0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-06T10:45:05.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:45:05.678Z"
             },
             {
               "$type": "Document",
@@ -309,8 +299,7 @@
               "RelativeToolTip": "Medicines\\ImportResults\\Expected Result - ImportPharmacies.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-06T11:12:55.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:12:55.546Z"
             },
             {
               "$type": "Document",
@@ -322,8 +311,7 @@
               "RelativeToolTip": "Medicines\\ImportResults\\Actual Result - ImportPharmacies.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-06T11:12:54.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:12:54.869Z"
             },
             {
               "$type": "Document",
@@ -335,8 +323,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T14:41:29.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T14:41:29.028Z"
             },
             {
               "$type": "Document",
@@ -348,8 +335,7 @@
               "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T14:39:28.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T14:39:28.343Z"
             },
             {
               "$type": "Document",
@@ -361,8 +347,7 @@
               "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-06T15:05:51.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T15:05:51.48Z"
             },
             {
               "$type": "Document",
@@ -374,8 +359,7 @@
               "RelativeToolTip": "Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-06T15:05:48.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T15:05:48.846Z"
             },
             {
               "$type": "Document",
@@ -387,8 +371,7 @@
               "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:58:18.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T09:58:18.764Z"
             },
             {
               "$type": "Document",
@@ -400,8 +383,7 @@
               "RelativeToolTip": "..\\03.Authors\\DataProcessor\\Serializer.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T14:47:18.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T14:47:18.514Z"
             },
             {
               "$type": "Document",
@@ -413,8 +395,7 @@
               "RelativeToolTip": "Medicines\\Utilities\\XmlHelper.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAIAwwB4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:49:16.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T10:49:16.942Z"
             },
             {
               "$type": "Document",
@@ -426,8 +407,7 @@
               "RelativeToolTip": "Medicines\\ExportResults\\Expected Result - ExportPatientsWithTheirMedicines.xml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-06T15:05:47.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T15:05:47.205Z"
             },
             {
               "$type": "Document",
@@ -439,8 +419,7 @@
               "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-06T15:05:59.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T15:05:59.008Z"
             },
             {
               "$type": "Document",
@@ -452,8 +431,7 @@
               "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-06T15:05:50.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T15:05:50.115Z"
             },
             {
               "$type": "Document",
