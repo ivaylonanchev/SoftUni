@@ -1,4 +1,5 @@
 ﻿using Cadastre.Data.Enumerations;
+using Newtonsoft.Json;
 using System.ComponentModel.DataAnnotations;
 
 namespace Cadastre.DataProcessor.ImportDtos;
@@ -22,6 +23,7 @@ public class ImportCitizenDto
     [EnumDataType(typeof(MaritalStatus))]
     public string MaritalStatus { get; set; } = null!;
 
-    [Required] 
+    [Required]
+    [JsonProperty(nameof(Properties))]
     public int[] Properties { get; set; } = null!;
 }

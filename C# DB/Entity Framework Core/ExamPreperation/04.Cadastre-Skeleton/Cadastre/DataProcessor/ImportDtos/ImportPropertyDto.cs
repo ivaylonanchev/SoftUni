@@ -10,9 +10,10 @@ public class ImportPropertyDto
     [MinLength(16)]
     [MaxLength(20)]
     [XmlElement(nameof(PropertyIdentifier))]
-    public string? PropertyIdentifier { get; set; } = null!;
+    public string PropertyIdentifier { get; set; } = null!;
 
     [Required]
+    [Range(0, 100000000)]
     [XmlElement(nameof(Area))]
     public int Area { get; set; }
 

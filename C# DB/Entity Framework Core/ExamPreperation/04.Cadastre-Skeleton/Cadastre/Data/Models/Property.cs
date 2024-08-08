@@ -18,6 +18,7 @@ public class Property
     public string? PropertyIdentifier { get; set; } = null!;
 
     [Required]
+    [Range(0,100000000)]
     public int Area { get; set; }
 
     [Required]

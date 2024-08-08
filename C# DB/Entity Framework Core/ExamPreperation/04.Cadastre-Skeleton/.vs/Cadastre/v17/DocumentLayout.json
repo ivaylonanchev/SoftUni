@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importdistrictdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importdistrictdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importcitizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importcitizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\actual result - exportfilteredpropertieswithdistrict.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -15,46 +47,38 @@
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\expected result - exportfilteredpropertieswithdistrict.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\actual result - exportfilteredpropertieswithdistrict.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\actual result - exportfilteredpropertieswithdistrict.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\actual result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\actual result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\expected result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\expected result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\actual result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\actual result - exportpropertieswithowners.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\exportdtos\\exportpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\exportdtos\\exportpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\exportresults\\actual result - exportfilteredpropertieswithdistrict.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\exportresults\\actual result - exportfilteredpropertieswithdistrict.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\importresults\\expected result - importedcitizens.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -65,18 +89,8 @@
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\importresults\\actual result - importedcitizens.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\models\\propertycitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\models\\propertycitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importcitizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importcitizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\datasets\\citizens.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -87,28 +101,12 @@
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\datasets\\districts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\importresults\\actualt result - importeddistricts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\importresults\\actualt result - importeddistricts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\dataprocessor\\importdtos\\importdistrictdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\dataprocessor\\importdtos\\importdistrictdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\importresults\\expected result - importeddistricts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\importresults\\expected result - importeddistricts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Migrations\\20240808091246_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cadastre\\Migrations\\20240808091246_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\cadastrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,6 +123,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\data\\enumerations\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\data\\enumerations\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\exampreperation\\04.cadastre-skeleton\\cadastre\\migrations\\20240808091246_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55008AFA-EAF5-4B27-A15D-D1B420213D2D}|Cadastre\\Cadastre.csproj|solutionrelative:cadastre\\migrations\\20240808091246_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,34 +136,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-08T10:34:40.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Expected Result - ExportFilteredPropertiesWithDistrict.xml",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeToolTip": "Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-08T10:32:09.819Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -172,46 +148,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
-              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "DocumentIndex": 2,
+              "Title": "ImportPropertyDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-08T10:34:38.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExportPropertyDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:33:58.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExportPropertyDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:21:28.344Z",
+              "WhenOpened": "2024-08-08T10:55:21.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ImportDistrictDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:53:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportCitizenDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:55:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImportDistrictDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:14:16.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:39:02.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportPropertyDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:16:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwJ0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:43:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:49:34.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Property.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Property.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Models\\Property.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:46:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAYwCABAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-08T10:34:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Utilities\\XmlHelper.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "Cadastre\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:13:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:07:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expected Result - ExportFilteredPropertiesWithDistrict.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeToolTip": "Cadastre\\ExportResults\\Expected Result - ExportFilteredPropertiesWithDistrict.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-08T10:32:09.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Citizen.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Citizen.cs",
+              "RelativeToolTip": "Cadastre\\Data\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:48:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImportCitizenDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:41:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actual Result - ExportPropertiesWithOwners.json",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
+              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
+              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T10:19:07.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Expected Result - ExportPropertiesWithOwners.json",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Expected Result - ExportPropertiesWithOwners.json",
               "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Expected Result - ExportPropertiesWithOwners.json",
@@ -224,72 +369,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Actual Result - ExportPropertiesWithOwners.json",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
-              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
-              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportPropertiesWithOwners.json",
+              "DocumentIndex": 16,
+              "Title": "ExportPropertyDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "RelativeToolTip": "Cadastre\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:21:28.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExportPropertyDto.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ExportDtos\\ExportPropertyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:33:58.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeDocumentMoniker": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
+              "RelativeToolTip": "Cadastre\\ExportResults\\Actual Result - ExportFilteredPropertiesWithDistrict.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T10:19:07.634Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-08T10:34:38.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Serializer.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Serializer.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Serializer.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Serializer.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\Serializer.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:49:34.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Deserializer.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Deserializer.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\Deserializer.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\Deserializer.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\Deserializer.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAQwJ0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:43:47.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Property.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Property.cs",
-              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Property.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Property.cs",
-              "RelativeToolTip": "Cadastre\\Data\\Models\\Property.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:46:32.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Citizen.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Citizen.cs",
-              "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\Citizen.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\Citizen.cs",
-              "RelativeToolTip": "Cadastre\\Data\\Models\\Citizen.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:48:23.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "District.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\District.cs",
               "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\District.cs",
@@ -297,51 +415,11 @@
               "RelativeToolTip": "Cadastre\\Data\\Models\\District.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAADgvxIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:44:34.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:44:34.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\StartUp.cs",
-              "RelativeDocumentMoniker": "Cadastre\\StartUp.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\StartUp.cs",
-              "RelativeToolTip": "Cadastre\\StartUp.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:35:13.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Serializer.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
-              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
-              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\Serializer.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:07:38.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ImportDistrictDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportDistrictDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:14:16.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Actual Result - ImportedCitizens.txt",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ImportResults\\Actual Result - ImportedCitizens.txt",
               "RelativeDocumentMoniker": "Cadastre\\ImportResults\\Actual Result - ImportedCitizens.txt",
@@ -349,25 +427,11 @@
               "RelativeToolTip": "Cadastre\\ImportResults\\Actual Result - ImportedCitizens.txt",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-08T09:59:22.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:59:22.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Deserializer.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
-              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
-              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\Deserializer.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAAAHIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:39:02.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "PropertyCitizen.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Data\\Models\\PropertyCitizen.cs",
               "RelativeDocumentMoniker": "Cadastre\\Data\\Models\\PropertyCitizen.cs",
@@ -375,25 +439,11 @@
               "RelativeToolTip": "Cadastre\\Data\\Models\\PropertyCitizen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:51:39.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:51:39.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ImportCitizenDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "RelativeDocumentMoniker": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "RelativeToolTip": "..\\04. Model Definition_Author Solution\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:55:37.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Expected Result - ImportedCitizens.txt",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
               "RelativeDocumentMoniker": "Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
@@ -401,34 +451,7 @@
               "RelativeToolTip": "Cadastre\\ImportResults\\Expected Result - ImportedCitizens.txt",
               "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-08T09:59:21.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ImportCitizenDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportCitizenDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:41:25.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ImportPropertyDto.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
-              "RelativeDocumentMoniker": "Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
-              "RelativeToolTip": "Cadastre\\DataProcessor\\ImportDtos\\ImportPropertyDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:16:19.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:59:21.418Z"
             },
             {
               "$type": "Document",
@@ -440,12 +463,11 @@
               "RelativeToolTip": "Cadastre\\Data\\CadastreContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:10:17.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:10:17.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Districts.xml",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Datasets\\Districts.xml",
               "RelativeDocumentMoniker": "Cadastre\\Datasets\\Districts.xml",
@@ -453,12 +475,11 @@
               "RelativeToolTip": "Cadastre\\Datasets\\Districts.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-08T10:00:57.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T10:00:57.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Citizens.json",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Datasets\\Citizens.json",
               "RelativeDocumentMoniker": "Cadastre\\Datasets\\Citizens.json",
@@ -466,12 +487,11 @@
               "RelativeToolTip": "Cadastre\\Datasets\\Citizens.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T10:00:58.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T10:00:58.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Actualt Result - ImportedDistricts.txt",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ImportResults\\Actualt Result - ImportedDistricts.txt",
               "RelativeDocumentMoniker": "Cadastre\\ImportResults\\Actualt Result - ImportedDistricts.txt",
@@ -479,12 +499,11 @@
               "RelativeToolTip": "Cadastre\\ImportResults\\Actualt Result - ImportedDistricts.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-08T09:35:45.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:35:45.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "20240808091246_first.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Migrations\\20240808091246_first.cs",
               "RelativeDocumentMoniker": "Cadastre\\Migrations\\20240808091246_first.cs",
@@ -492,25 +511,11 @@
               "RelativeToolTip": "Cadastre\\Migrations\\20240808091246_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:12:46.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:12:46.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "XmlHelper.cs",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Utilities\\XmlHelper.cs",
-              "RelativeDocumentMoniker": "Cadastre\\Utilities\\XmlHelper.cs",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\Utilities\\XmlHelper.cs",
-              "RelativeToolTip": "Cadastre\\Utilities\\XmlHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:13:28.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Expected Result - ImportedDistricts.txt",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\ExamPreperation\\04.Cadastre-Skeleton\\Cadastre\\ImportResults\\Expected Result - ImportedDistricts.txt",
               "RelativeDocumentMoniker": "Cadastre\\ImportResults\\Expected Result - ImportedDistricts.txt",
@@ -518,8 +523,7 @@
               "RelativeToolTip": "Cadastre\\ImportResults\\Expected Result - ImportedDistricts.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-08T09:36:15.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T09:36:15.758Z"
             },
             {
               "$type": "Document",
@@ -531,8 +535,7 @@
               "RelativeToolTip": "Cadastre\\Data\\Enumerations\\Region.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:45:11.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:45:11.808Z"
             },
             {
               "$type": "Document",
@@ -544,8 +547,7 @@
               "RelativeToolTip": "Cadastre\\Data\\Enumerations\\MaritalStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:50:49.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:50:49.738Z"
             },
             {
               "$type": "Document",
@@ -557,8 +559,7 @@
               "RelativeToolTip": "Cadastre\\Data\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:43:06.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:43:06.261Z"
             }
           ]
         }

@@ -42,18 +42,19 @@ namespace Cadastre.DataProcessor
 
         public static string ExportFilteredPropertiesWithDistrict(CadastreContext dbContext)
         {
-            const string xmlRoot = "Porperty";
+            const string xmlRoot = "Properties";
             XmlHelper helper = new XmlHelper();
 
             ExportPropertyDto[] properties = dbContext.Properties
                 .Where(p => p.Area >= 100)
                 .OrderByDescending(p=>p.Area)
                 .ThenBy(p=>p.DateOfAcquisition)
-                .Select(p => new ExportPropertyDto()
+                .Select(p => new ExportPropertyDto
                 {
                     PostalCode = p.District.PostalCode,
                     PropertyIdentifier = p.PropertyIdentifier,
-                    DateOfAcquisition = p.DateOfAcquisition.ToString("dd-MM-yyyy")
+                    Area = p.Area,
+                    DateOfAcquisition = p.DateOfAcquisition.ToString("dd/MM/yyyy")
                 })
                 .ToArray();
 

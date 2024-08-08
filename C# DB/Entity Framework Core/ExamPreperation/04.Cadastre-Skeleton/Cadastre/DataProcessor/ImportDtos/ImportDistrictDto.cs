@@ -12,13 +12,13 @@ public class ImportDistrictDto
     [MinLength(2)]
     [MaxLength(80)]
     [XmlElement(nameof(Name))]
-    public string? Name { get; set; } = null!;
+    public string Name { get; set; } = null!;
 
     [Required]
     [StringLength(8)]
     [RegularExpression(@"[A-Z]{2}\-[0-9]{5}")]
     [XmlElement(nameof(PostalCode))]
-    public string? PostalCode { get; set; } = null!;
+    public string PostalCode { get; set; } = null!;
 
     public ImportPropertyDto[] Properties { get; set; }
 }
