@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\data\\netpaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\exportresults\\actual-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\exportresults\\actual-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tolki\\AppData\\Local\\Temp\\.vsdbgsrc\\3685646f2f29e671aaf1cda7eb01c84daaec2ae61820d2c444edc3121d696\\DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|solutionrelative:netpay\\exportresults\\expected-result-exporthouseholds.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17EAF1FA-6AEC-4EDA-9765-5D718686D206}|NetPay\\NetPay.csproj|d:\\ivo\\github\\softuni\\c# db\\entity framework core\\retakeexam\\netpay\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +41,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "NetPay\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "NetPay\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:07:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolki\\AppData\\Local\\Temp\\.vsdbgsrc\\3685646f2f29e671aaf1cda7eb01c84daaec2ae61820d2c444edc3121d696\\DbContext.cs",
+              "ToolTip": "C:\\Users\\tolki\\AppData\\Local\\Temp\\.vsdbgsrc\\3685646f2f29e671aaf1cda7eb01c84daaec2ae61820d2c444edc3121d696\\DbContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:59:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetPayContext.cs",
+              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeDocumentMoniker": "NetPay\\Data\\NetPayContext.cs",
+              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\Data\\NetPayContext.cs",
+              "RelativeToolTip": "NetPay\\Data\\NetPayContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:59:24.048Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -46,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ExportExpenseDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\DataProcessor\\ExportDtos\\ExportExpenseDto.cs",
               "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\ExportExpenseDto.cs",
@@ -54,12 +98,11 @@
               "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\ExportExpenseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T09:43:18.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T09:43:18.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ExportHouseholdDto.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
               "RelativeDocumentMoniker": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
@@ -67,12 +110,11 @@
               "RelativeToolTip": "NetPay\\DataProcessor\\ExportDtos\\ExportHouseholdDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T09:43:14.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T09:43:14.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Serializer.cs",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\DataProcessor\\Serializer.cs",
               "RelativeDocumentMoniker": "NetPay\\DataProcessor\\Serializer.cs",
@@ -80,12 +122,11 @@
               "RelativeToolTip": "NetPay\\DataProcessor\\Serializer.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAcwD4AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T09:35:20.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T09:35:20.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Expected-Result-ExportHouseholds.xml",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
               "RelativeDocumentMoniker": "NetPay\\ExportResults\\Expected-Result-ExportHouseholds.xml",
@@ -98,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Expected-Result-ExportServicesWithSuppliers.json",
               "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\ExportResults\\Expected-Result-ExportServicesWithSuppliers.json",
               "RelativeDocumentMoniker": "NetPay\\ExportResults\\Expected-Result-ExportServicesWithSuppliers.json",
@@ -106,42 +147,7 @@
               "RelativeToolTip": "NetPay\\ExportResults\\Expected-Result-ExportServicesWithSuppliers.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T09:34:44.168Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "3767cfb1-7bf6-4911-b3d7-661892d9ad8c",
-        "Display": 0,
-        "X": -730,
-        "Y": 116,
-        "Width": 1455,
-        "Height": 880,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Actual-Result-ExportHouseholds.xml",
-              "DocumentMoniker": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
-              "RelativeDocumentMoniker": "NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
-              "ToolTip": "D:\\ivo\\GitHub\\SoftUni\\C# DB\\Entity Framework Core\\RetakeExam\\NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
-              "RelativeToolTip": "NetPay\\ExportResults\\Actual-Result-ExportHouseholds.xml",
-              "ViewState": "AQIAAPQBAAAAAAAAAAAtwBQCAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-09T09:45:50.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T09:34:44.168Z"
             }
           ]
         }

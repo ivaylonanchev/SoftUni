@@ -25,7 +25,6 @@ namespace NetPay.DataProcessor
         {
             XmlHelper helper = new XmlHelper();
             const string xmlRoot = "Households";
-
             ImportHouseholdDto[] deseriaizedHouseholdDtos = helper
                 .Deseriaize<ImportHouseholdDto[]>(xmlString, xmlRoot);
 
