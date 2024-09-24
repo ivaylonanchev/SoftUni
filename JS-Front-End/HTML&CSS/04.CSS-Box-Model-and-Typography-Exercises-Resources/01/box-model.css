@@ -1,0 +1,39 @@
+.css-model{
+    width:50vw;
+    margin:50px auto ;
+}
+
+.css-model div{
+    border: 1px dashed rgb(88, 88, 88);
+    margin: 5px 20px 20px 20px;
+}
+
+.css-model div:before{
+    padding-left: 10px;
+    font-size: 12px;
+    display: block;
+}
+
+.margin{
+    background: hsl(16.25deg 100% 71.76%);
+}
+.margin::before{
+    content: 'margin';
+}
+.border{
+    background: hsl(35.79deg 100% 88.82%);
+}
+.border::before{
+    content: 'border';
+}
+.padding{
+    background:hsl(120deg 71.83% 72.16%);
+}
+.padding::before{
+    content: 'padding';
+}
+.content{
+    background:hsl(195.24deg 52.07% 76.27%);
+    text-align: center;
+    text-transform: capitalize;
+}
